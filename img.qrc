@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>login.png</file>
+        <file>funcwin.png</file>
+        <file>helpwin.png</file>
+        <file>othlargwin.png</file>
+        <file>othmedwin.png</file>
+        <file>invwin.png</file>
+    </qresource>
+</RCC>
